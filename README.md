@@ -3,4 +3,4 @@ facebook bruteforce tool by ahsan abbasi
 
 to use : 
 
-    Command: python facebook_hack.py -t victim@gmail.com -w Passlist.txt
+    Command: python ahsan_bruteforce.py -t victim@gmail.com -w Passlist.txt
